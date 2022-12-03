@@ -6,7 +6,7 @@
 }
 
 header{
-    background-image: url(../Akanksha_CD_secB_webpage2/images/C6E7EB26-5CB3-48FF-8FAE-56010E962EBB_Original.jpg);
+    background-image: url(../images/C6E7EB26-5CB3-48FF-8FAE-56010E962EBB_Original.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -107,7 +107,7 @@ main .latest-articles .one hr,main .latest-articles .two hr,main .latest-article
 footer{
     display: flex;
     height: 500px;
-    background-image: url(../Akanksha_CD_secB_webpage2/images/IMG_2392.jpg);
+    background-image: url(../images/IMG_2392.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 100px 10px 20px 10px;
