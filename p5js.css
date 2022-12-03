@@ -1,0 +1,98 @@
+.navbar 
+{
+    width: 100%;
+    overflow: auto;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    padding:1%  ;
+    font-size:5vw ;
+    text-decoration: none;
+    position: sticky;
+}
+  
+
+@media screen and (max-width: 500px) 
+{
+    .navbar
+    {
+      float: none;
+      display:block;
+    }
+}
+
+
+#b1,#b2, #b3, #b4, #b5
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 60px;
+    font-family:monospace  ;
+    font-weight: bold;  
+    border:none ;
+    width:180px;
+    text-decoration:none;
+    padding: 10px;
+    text-align: center;
+    border-radius:10px ;
+    margin:7px ;
+}
+
+
+#b2:hover,#b3:hover,#b4:hover,#b1:hover{
+    background-color: rgb(119, 150, 185);
+    text-decoration: none;
+}
+
+
+.bar
+{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.td1
+{
+      width: 350px;
+      height: 200px; 
+      text-align: center; 
+      font-family: 'Courier New', Courier, monospace; 
+      color: rgb(3, 3, 3);
+      font-weight: bold;
+      font-size: 20px ;
+      padding:15px ;
+      
+}
+
+  
+#t1
+{
+      background-color: rgb(0, 0, 0);
+      display: inline-block;
+      padding:30px;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(233, 233, 233);
+}
+
+#imgjava
+{
+    height:330px;
+}
+
+#ajava:hover 
+{
+
+  font-size: 22px ;
+  
+}
+
+#colourb
+{
+    background: rgb(218, 218, 218);
+}
