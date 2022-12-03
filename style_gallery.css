@@ -6,7 +6,7 @@
 }
 
 header{
-    background-image: url(../Akanksha_CD_secB_webpage2/images/photo-output\ copy.JPG);
+    background-image: url(../images/photo-output\ copy.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -99,7 +99,7 @@ main .latest-articles .one hr,main .latest-articles .two hr,main .latest-article
 footer{
     display: flex;
     height: 500px;
-    background-image: url(../Akanksha_CD_secB_webpage2/images/IMG_0814.jpg);
+    background-image: url(../images/IMG_0814.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 100px 10px 20px 10px;
